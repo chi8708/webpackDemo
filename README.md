@@ -1,6 +1,6 @@
 ## 步骤
-a.npm init （npm最好最新版）
-b.cnpm install webpack-cli -g    npm install --save lodash
+* a.npm init （npm最好最新版）
+* b.cnpm install webpack-cli -g    npm install --save lodash
 c.配置package.json
 设置 main scripts
 {
